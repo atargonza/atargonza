@@ -1,6 +1,6 @@
 # Anne Therese Argonza | Aspiring Data Scientist & AI Developer
 
-Data Science & Statistics student passionate about **predictive modeling**, **machine learning**, and **data-driven health impact**. Focused on clean code, collaborative research, and scalable solutions.
+Data Science & Statistics student passionate about **predictive modeling**, **machine learning**, and **data-driven humanitarian impact**. Focused on clean code, collaborative research, and scalable solutions.
 
 - 🎓 **BS in Data Science & Statistics** @ NJIT (Albert Dorman Honors College)
 - 💡 **Interests:** Machine Learning, Health-Tech, Web Apps, Music
@@ -11,7 +11,7 @@ Data Science & Statistics student passionate about **predictive modeling**, **ma
 
 ### Technical Skills
 
-- **Languages:** Python, Java, HTML5, CSS3, SQL
+- **Languages:** Python, Java, HTML5, CSS3
 - **Frameworks & Tools:** NumPy, Pandas, Scikit-learn, Neural Networks, Git/GitHub, VS Code, Google Colab
 - **Core Competencies:** Predictive Modeling, Data Visualization, Statistical Analysis, Research Methods
 
