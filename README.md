@@ -3,7 +3,7 @@
 Data Science & Statistics student passionate about **predictive modeling**, **machine learning**, and **data-driven health impact**. Focused on clean code, collaborative research, and scalable solutions.
 
 - 🎓 **BS in Data Science & Statistics** @ NJIT (Albert Dorman Honors College)
-- 💡 **Interests:** Machine Learning, Health-Tech, Web Apps
+- 💡 **Interests:** Machine Learning, Health-Tech, Web Apps, Music
 - ⚡ **Currently learning:** Advanced ML Foundations @ Break Through Tech AI (Cornell Tech)
 - 📫 **Reach me:** [Email](mailto:atargonza@gmail.com) | [LinkedIn](https://linkedin.com/in/anne-therese-argonza) | [GitHub](https://github.com/atargonza)
 
