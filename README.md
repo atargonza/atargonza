@@ -21,7 +21,7 @@ Data Science & Statistics student passionate about **predictive modeling**, **ma
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[ML Framework for Particle Tracking](https://github.com/atargonza)** | Engineered a Python ML framework to model intestinal mucus and extract fluid dynamic properties; won 1st Place at the Honors Interdisciplinary Research Forum. | Python, ML, NumPy, Pandas |
+| **[ML Framework for Particle Tracking]** | Engineered a Python ML framework to model intestinal mucus and extract fluid dynamic properties; won 1st Place at the Honors Interdisciplinary Research Forum. | Python, ML, NumPy, Pandas |
 | **[ArtSense AI Web App](https://github.com/kgz2-spec/Art-Sense.py)** | Co-developed an accessible art analysis web app using Gemini API; won "Best Beginner Hack" at WiCS GirlHacks 2025. | HTML5/CSS3, Python, Gemini API, Git |
 
 ---
