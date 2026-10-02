@@ -11,7 +11,7 @@ Data Science & Statistics student passionate about **predictive modeling**, **ma
 
 ### Technical Skills
 
-- **Languages:** Python, Java, HTML5, CSS3
+- **Languages:** Python, Java, C++, MATLAB, R, HTML5, CSS3
 - **Frameworks & Tools:** NumPy, Pandas, Scikit-learn, Neural Networks, Git/GitHub, VS Code, Google Colab
 - **Core Competencies:** Predictive Modeling, Data Visualization, Statistical Analysis, Research Methods
 
