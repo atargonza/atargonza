@@ -17,7 +17,7 @@ Data Science & Statistics student passionate about **predictive modeling**, **ma
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
@@ -27,7 +27,7 @@ Data Science & Statistics student passionate about **predictive modeling**, **ma
 
 ---
 
-### 📊 Highlights
+### Highlights
 
 - **Break Through Tech AI Fellow** at Cornell Tech (Selected from 4,400+ applicants)
 - **Secretary** for Women in Computing Society (WiCS) @ NJIT
@@ -36,7 +36,7 @@ Data Science & Statistics student passionate about **predictive modeling**, **ma
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/anne-therese-argonza)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:atargonza@gmail.com)
