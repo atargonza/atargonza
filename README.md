@@ -27,7 +27,7 @@ Data Science & Statistics student passionate about **predictive modeling**, **ma
 
 ---
 
-### 📊 GitHub Highlights
+### 📊 Highlights
 
 - **Break Through Tech AI Fellow** at Cornell Tech (Selected from 4,400+ applicants)
 - **Secretary** for Women in Computing Society (WiCS) @ NJIT
