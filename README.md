@@ -13,7 +13,7 @@ Data Science & Statistics student passionate about **predictive modeling**, **ma
 
 - **Languages:** Python, Java, C++, MATLAB, R, HTML5, CSS3
 - **Frameworks & Tools:** NumPy, Pandas, Scikit-learn, Neural Networks, Git/GitHub, VS Code, Google Colab
-- **Core Competencies:** Predictive Modeling, Data Visualization, Statistical Analysis, Research Methods
+- **Core Competencies:** Predictive Modeling, Data Visualization, Statistical Analysis, Software Engineering, Research Methods
 
 ---
 
@@ -22,7 +22,8 @@ Data Science & Statistics student passionate about **predictive modeling**, **ma
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **ML Framework for Particle Tracking** | Engineered a Python ML framework to model intestinal mucus and extract fluid dynamic properties; won 1st Place at the Honors Interdisciplinary Research Forum. | Python, ML, NumPy, Pandas |
-| **[ArtSense AI Web App](https://github.com/kgz2-spec/Art-Sense.py)** | Co-developed the frontend for an accessible art analysis web app using Gemini API; won "Best Beginner Hack" at WiCS GirlHacks 2025. | HTML5/CSS3, Python, Gemini API, Git |
+| **[ArtSense AI Web App](https://github.com/kgz2-spec/Art-Sense.py)** | Co-developed the frontend for an accessible art analysis web app that used Gemini API; won "Best Beginner Hack" at WiCS GirlHacks 2025. | HTML/CSS, Python, Gemini API, Git |
+| **[AtheneumOfTongues³ Web App](https://github.com/atargonza/AtheneumOfTongues-3)** | Developed the Python/FastAPI backend architecture and led frontend-to-backend integration, connecting Gemini API endpoints for an interactive full-stack language learning web app at HackRU 2026. | Python/FastAPI, Gemini API, Next.js, React, HTML/CSS, Git |
 
 ---
 
@@ -30,6 +31,7 @@ Data Science & Statistics student passionate about **predictive modeling**, **ma
 
 - **Break Through Tech AI Fellow** at Cornell Tech (Selected from 4,400+ applicants)
 - **Secretary** for Women in Computing Society (WiCS) @ NJIT
+- **Internal Operations Chair** for GirlHacks 2026 @ NJIT
 - **Undergraduate Research Fellow** at NJIT (Honors Summer Research Institute)
 
 ---
