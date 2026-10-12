@@ -21,7 +21,7 @@ Data Science & Statistics student passionate about **predictive modeling**, **ma
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **ML Framework for Particle Tracking** | Engineered a Python ML framework to model intestinal mucus and extract fluid dynamic properties; won 1st Place at the Honors Interdisciplinary Research Forum. | Python, ML, NumPy, Pandas |
+| **[ML Framework for Particle Tracking](https://www.linkedin.com/in/anne-therese-argonza/overlay/1791617502960/single-media-viewer/?profileId=ACoAAF0FjpIBwZUNZT7yVd7d51Vx7Ueh84XByqA)** | Engineered a Python ML framework to model intestinal mucus and extract fluid dynamic properties; won 1st Place at the Honors Interdisciplinary Research Forum. | Python, ML, NumPy, Pandas |
 | **[ArtSense AI Web App](https://github.com/kgz2-spec/Art-Sense.py)** | Co-developed the frontend for an accessible art analysis web app that used Gemini API; won "Best Beginner Hack" at WiCS GirlHacks 2025. | HTML/CSS, Python, Git |
 | **[AtheneumOfTongues³ Web App](https://github.com/atargonza/AtheneumOfTongues-3)** | Developed the Python/FastAPI backend architecture and led frontend-to-backend integration, connecting Gemini API endpoints for an interactive full-stack language learning web app at HackRU 2026. | Python/FastAPI, Gemini API, Next.js, React, HTML/CSS, Git |
 
